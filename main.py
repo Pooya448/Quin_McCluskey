@@ -1,4 +1,3 @@
-# Alireza Moradi 
 
 import itertools
 
